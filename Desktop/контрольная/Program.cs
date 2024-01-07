@@ -46,7 +46,7 @@ void Print (string[] array)
     Console.WriteLine();
 }
 
-   //клиентский
+    //клиентский
 Console.Write("Введите набор символов через знак (,) : ");
 string inStringSimvol = Console.ReadLine();
 string[] arraySimvol = GetArrayStringConsole(inStringSimvol);
